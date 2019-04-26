@@ -1,0 +1,1 @@
+its a RESTFUL api tat performs the crud operations based on JSON format
