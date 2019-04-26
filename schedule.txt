@@ -1,6 +1,0 @@
-the fb site the students part https://www.facebook.com/groups/1282717078530848/
-the pirple.com site https://www.facebook.com/WeArePirple
-the nodejs github link https://github.com/pirple/The-NodeJS-Master-Class/blob/master/Section%203/Adding%20HTTPS%20support/https/keyGeneration.txt
-git learning videos https://git-scm.com/videos
-more git learning: https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-
-bash file system commands https://medium.com/the-code-review/top-10-bash-file-system-commands-you-cant-live-without-4cd937bd7df1
